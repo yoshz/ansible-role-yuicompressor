@@ -1,0 +1,16 @@
+---
+
+galaxy_info:
+  author: Yosh de Vos
+  description: Installs yuicompressor
+  license: license MIT
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - web
