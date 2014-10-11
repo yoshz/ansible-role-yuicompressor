@@ -2,8 +2,9 @@
 
 galaxy_info:
   author: Yosh de Vos
-  description: Installs yuicompressor
-  license: license MIT
+  description: An Ansible role for installing yuicompressor
+  license: MIT
+  version: 0.1
   min_ansible_version: 1.4
   platforms:
   - name: Ubuntu

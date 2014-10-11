@@ -9,3 +9,4 @@
     url=https://github.com/yui/yuicompressor/releases/download/v{{ yuicompressor_version }}/yuicompressor-{{ yuicompressor_version }}.jar
     dest={{ yuicompressor_path }}/yuicompressor-{{ yuicompressor_version }}.jar
   tags: [yuicompressor]
+

@@ -7,7 +7,7 @@ An Ansible role for installing yuicompressor.
 Requirements
 ------------
 
-None
+Java should be installed to execute the jar file.
 
 
 Role Variables
@@ -27,3 +27,4 @@ License
 -------
 
 MIT
+
